@@ -1,0 +1,5 @@
+number = input("Please enter a number")
+if number in range(1, 10):
+      print("ITS IN RANGE!")
+else:
+      print("ITS NOT IN RANGE!")
