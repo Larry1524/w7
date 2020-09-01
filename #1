@@ -1,0 +1,4 @@
+import math
+r = input("what is the radius")
+p = 22 / 7
+print(p * (r * r))
